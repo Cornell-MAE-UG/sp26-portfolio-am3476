@@ -1,11 +1,12 @@
 ---
-layout: project
+layout: default
 title: Macademia Nutcracker
 description: Designing a nutcracker with a linear actuator so that it's able to crack a macademica nut
 technologies: [None used]
-image: I0.jpg
-image: I0b.jpg
-image: I1.jpg
+image: 
+  - I0.jpg
+  - I0b.jpg
+  - I1.jpg
 ---
 
 Find: Find a way to design a nutcracker so that it's able to crack a macademia nut using a linear actuator (part B)
