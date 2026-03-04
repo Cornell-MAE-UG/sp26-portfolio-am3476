@@ -13,7 +13,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : Anjalika Malhotra
 description              : Your Name - Projects and CV 
-baseurl                  : "" # Set this to your repo name 
+baseurl                  : "/sp26-portfolio-am3476/"
 
 # Theme and Style
 theme: jekyll-theme-minimal
@@ -43,5 +43,4 @@ plugins:
   - jekyll-include-cache
   - jekyll-seo-tag
 
-baseurl: /sp26-portfolio-am3476/
 
