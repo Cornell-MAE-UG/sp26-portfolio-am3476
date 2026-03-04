@@ -13,5 +13,5 @@ Given: Given that a macademia nut is not able to be cracked with a conventional 
 
 Part a:
 <img src="/assets/images/I0.jpg" alt="Macademia Nutcracker" width="600" />
-<img src="I0b.jpg" alt="Macademia Nutcracker" width="600" />
-<img src="I1.jpg" alt="Macademia Nutcracker" width="600" />
+<img src="/I0b.jpg" alt="Macademia Nutcracker" width="600" />
+<img src="/I1.jpg" alt="Macademia Nutcracker" width="600" />
