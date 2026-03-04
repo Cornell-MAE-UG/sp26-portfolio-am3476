@@ -15,7 +15,7 @@ Given: Given that a macademia nut is not able to be cracked with a conventional 
 
 Part A:
 
-<img src="{{ '/assets/images/I0.jpg' | relative_url }}" alt="Macademia Nutcracker" width="600" />
+<img src="{{ '/assets/images/I0.jpg' | relative_url }}"
 <img src="{{ '/assets/images/I0b.jpg' | relative_url }}" alt="Macademia Nutcracker" width="600" />
 
 Part B:
