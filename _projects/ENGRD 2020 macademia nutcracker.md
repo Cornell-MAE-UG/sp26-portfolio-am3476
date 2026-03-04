@@ -2,7 +2,7 @@
 layout: project
 title: Macademia Nutcracker
 description: Designing a nutcracker with a linear actuator so that it's able to crack a macademica nut
-technologies: []
+technologies: [Designing ]
 image: /assets/images/I0.jpg
 image: /assets/images/I0b.jpg
 image: /assets/images/I1.jpg
