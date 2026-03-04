@@ -1,12 +1,12 @@
 ---
-layout: default
+layout: project
 title: Macademia Nutcracker
 description: Designing a nutcracker with a linear actuator so that it's able to crack a macademica nut
 technologies: [None used]
 image: 
-  - /sp26-portfolio-am3476/assets/I0.jpg
-  - /sp26-portfolio-am3476/assets/I0b.jpg
-  - /sp26-portfolio-am3476/assets/I1.jpg 
+  - I0.jpg
+  - I0b.jpg
+  - I1.jpg
 ---
 
 Find: Find a way to design a nutcracker so that it's able to crack a macademia nut using a linear actuator (part B)
@@ -15,11 +15,11 @@ Given: Given that a macademia nut is not able to be cracked with a conventional 
 
 Part A:
 
-<img src="/assets/images/I0.jpg" alt="Macademia Nutcracker" width="600" />
-<img src="/assets/images/I0b.jpg" alt="Macademia Nutcracker" width="600" />
+<img src=“/sp26-portfolio-am3476/assets/images/I0.jpg" alt="Macademia Nutcracker" width="600" />
+<img src=“/sp26-portfolio-am3476/assets/images/I0b.jpg" alt="Macademia Nutcracker" width="600" />
 
 Part B:
 
-<img src="/assets/images/I1.jpg" alt="Macademia Nutcracker" width="600" />
+<img src=“/sp26-portfolio-am3476/assets/images/I1.jpg" alt="Macademia Nutcracker" width="600" />
 
-Conclusion: As expected, this force output by the actuator above is enough to crack a macademica nut (2579N). Also, it' s nice that the length of the device doesn't exceed 15cm which makes it very usuable. 
+Conclusion: As expected, this force output by the actuator above is enough to crack a macademica nut (2579N). Also, it' s nice that the length of the device doesn't exceed 15cm which makes it very usuable.
