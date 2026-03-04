@@ -30,7 +30,7 @@ collections:
     output: true
   projects:
     output: true
-    permalink: /:collection/:path/
+    permalink: /:collection/:pathz
 
 # Markdown
 markdown: kramdown
@@ -43,5 +43,5 @@ plugins:
   - jekyll-include-cache
   - jekyll-seo-tag
 
-baseurl: "/sp26-portfolio-am3476/"
+baseurl: /sp26-portfolio-am3476/
 
