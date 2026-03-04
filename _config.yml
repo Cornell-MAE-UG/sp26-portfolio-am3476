@@ -8,10 +8,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : Your Name
+title                    : Anjalika Malhotra
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : Your Name
+name                     : Anjalika Malhotra
 description              : Your Name - Projects and CV 
 baseurl                  : "" # Set this to your repo name 
 
@@ -42,4 +42,6 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
   - jekyll-seo-tag
+
+baseurl: "/sp26-portfolio-am3476/"
 
