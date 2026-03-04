@@ -15,11 +15,11 @@ Given: Given that a macademia nut is not able to be cracked with a conventional 
 
 Part A:
 
-<img src="/sp26-portfolio-am3476/assets/images/I0.jpg" alt="Macademia Nutcracker" width="600" />
-<img src="/sp26-portfolio-am3476/assets/images/I0b.jpg" alt="Macademia Nutcracker" width="600" />
+<img src="/sp26-portfolio-am3476/I0.jpg" alt="Macademia Nutcracker" width="600" />
+<img src="/sp26-portfolio-am3476/I0b.jpg" alt="Macademia Nutcracker" width="600" />
 
 Part B:
 
-<img src="/sp26-portfolio-am3476/assets/images/I1.jpg" alt="Macademia Nutcracker" width="600" />
+<img src="/sp26-portfolio-am3476/I1.jpg" alt="Macademia Nutcracker" width="600" />
 
 Conclusion: As expected, this force output by the actuator above is enough to crack a macademica nut (2579N). Also, it' s nice that the length of the device doesn't exceed 15cm which makes it very usuable. 
