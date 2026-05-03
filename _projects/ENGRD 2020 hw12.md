@@ -11,7 +11,10 @@ image: p5.png
 image: p6.png
 ---
 
-<img src="/assets/images/p1.png" alt="Previous task" width="600" />
+
+<img src="{{ '/assets/images/I0.jpg' | relative_url }}" alt="Nutcracker that fails to crack nut" width="600" />
+
+<img src="{{ '/assets/images/p1.png' | relative_url }}" alt="Previous task" width="600" />
 <img src="/assets/images/p2.png" alt="Previous task" width="600" />
 
 
