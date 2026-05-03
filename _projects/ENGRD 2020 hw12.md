@@ -3,18 +3,26 @@ layout: project
 title: Modelling the handles of a macademica nutcracker as beams
 description: If you treat the handles of macademia nutcrackers as beams how would they deflect, and what kind of beam should you use?
 technologies: [None used]
-image: I0.jpg
-image: I0b.jpg
-image: I1.jpg
+image: p1.png
+image: p2.png
+image: p3.png
+image: p4.png
+image: p5.png
+image: p6.png
 ---
+
+<img src="/assets/p1.png" alt="Previous task" width="600" />
+<img src="/assets/p2.png" alt="Previous task" width="600" />
 
 Find: The location of maximum elastic deflection in my handles?
 Given: Given that the handles are no longer rigid and are represented as beams
 
-<img src="/assets/images/I0.jpg" alt="Macademia Nutcracker" width="600" />
-<img src="/I0b.jpg" alt="Macademia Nutcracker" width="600" />
+<img src="/assets/p3.png" alt="Previous task" width="600" />
+<img src="/assets/p4.png" alt="Previous task" width="600" />
+
 
 Find: A beam design such that the vertical elastic defelction is below 2% of its length & is the most mass efficient
 Given: Given that the handles are no longer rigid and are represented as beams
 
-<img src="/I1.jpg" alt="Macademia Nutcracker" width="600" />
+<img src="/assets/p5.png" alt="Previous task" width="600" />
+<img src="/assets/p6.png" alt="Previous task" width="600" />
