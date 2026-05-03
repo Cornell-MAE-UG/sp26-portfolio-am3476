@@ -23,8 +23,8 @@ Find: The location of maximum elastic deflection in my handles?
 Given: Given that the handles are no longer rigid and are represented as beams
 
 
-<img src="{{ '/assets/images/p3.png' | relative_url }}" alt="Previous task" width="600" />
-<img src="{{ '/assets/images/p4.png' | relative_url }}" alt="Previous task" width="600" />
+<img src="{{ '/assets/images/p3.png' | relative_url }}" alt="Part A" width="600" />
+<img src="{{ '/assets/images/p4.png' | relative_url }}" alt="Part A" width="600" />
 
 
 
@@ -33,5 +33,5 @@ Find: A beam design such that the vertical elastic defelction is below 2% of its
 Given: Given that the handles are no longer rigid and are represented as beams
 
 
-<img src="{{ '/assets/images/p5.png' | relative_url }}" alt="Previous task" width="600" />
-<img src="{{ '/assets/images/p5.png' | relative_url }}" alt="Previous task" width="600" />
+<img src="{{ '/assets/images/p5.png' | relative_url }}" alt="Part B" width="600" />
+<img src="{{ '/assets/images/p5.png' | relative_url }}" alt="Part C" width="600" />
