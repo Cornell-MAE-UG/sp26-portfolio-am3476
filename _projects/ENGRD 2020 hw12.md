@@ -13,7 +13,7 @@ image: p6.png
 
 
 
-<img src="{{ '/assets/images/p1.png' | relative_url }}" alt="Previous task" width="600" />
+<img src="/assets/images/p1.png' | relative_url" alt="Previous task" width="600" />
 <img src="{{ '/assets/images/p1.png' | relative_url }}" alt="Previous task" width="600" />
 <img src="{{ '/assets/images/p2.png' | relative_url }}" alt="Previous task" width="600" />
 
